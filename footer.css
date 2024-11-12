@@ -1,0 +1,255 @@
+.footerr {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.back_to_top {
+    height: 40px;
+    width: 100%;
+    background-color: #4a576a;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 0.8rem;
+
+}
+
+
+.footer_1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin-top: 20px; */
+    height: max-content;
+    width: 100%;
+    background-color: #283342;
+    flex-wrap: wrap;
+}
+
+.bottom_1 {
+    display: flex;
+    /* align-items: center; */
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-top: 20px;
+    height:300px;
+    
+    width: 150px;
+
+
+}
+
+.bottom_1 a {
+    text-decoration: none;
+    color: rgb(200, 217, 232);
+    font-size: 0.8rem;
+    margin-top: 8px;
+
+}
+
+.bottom_1 h3 {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.bottom_1 .bottom_follow {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 8px;
+    align-items: center;
+    flex-direction: row;
+    color: rgb(200, 217, 232);
+    font-size: 0.8rem;
+    cursor: auto;
+}
+
+.bottom_1 .bottom_follow div i {
+    margin-right: 5px;
+}
+
+/* footer 2 for website logo , language  , and country*/
+
+
+.footer2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 70px;
+    width: 100%;
+    border-top: 1px solid rgb(167, 160, 160);
+    background-color: #283342;
+}
+
+.footer2 .margin {
+    padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.margin1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer2 div a>img {
+    height: 25px;
+    width: 60px;
+    border-radius: 5px;
+}
+
+.footer2 div a {
+    text-decoration: none;
+
+}
+
+.footer2 .footer2_1{
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+}
+
+.border1 {
+    height: 30px;
+    width: 100px;
+
+    border: 1px solid rgb(157, 150, 150);
+}
+
+.footer2 .footer2_1 div select {
+    width: 80px;
+    height: 30px;
+    font-size: 0.7rem;
+    border-radius: 5px;
+    background-color: #283342;
+    color: rgb(220, 213, 213);
+    border: none;
+
+}
+
+.footer2 .footer2_1 div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+.india {
+    width: 130px;
+
+    color: rgb(199, 188, 188);
+
+}
+
+.india1 {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.india div img {
+    height: 22px;
+    border-radius: 4px;
+}
+
+
+.footer3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.footer3_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: max-content;
+    width: 100%;
+    background-color: #131A22;
+}
+
+.footer3_1>div {
+    margin: 20px;
+}
+
+.footer3_1_1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    /* background-color: #131A22; */
+
+    color: white;
+    width: 100%;
+    /* border: 2px solid forestgreen; */
+}
+
+.footer1_1_sub {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+.footer1_1_sub div {
+   
+    height: max-content;
+   
+    margin-top: 10px;
+    /* border: 2px solid #dddddd; */
+    /* background-color: rebeccapurple; */
+}
+
+.footer3_1_1 div a {
+    text-decoration: none;
+    color: rgb(200, 190, 190);
+    font-size: 0.7rem;
+
+}
+
+.footer1__1_1_1 {
+    width: 100%;
+    height: 60px;
+    background-color: #131A22;
+    display: flex;
+    /* margin-bottom: 25px; */
+    padding-bottom: 15px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer1_1_2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #dddddd;
+    font-size: 0.7rem;
+    width: 100%;
+    letter-spacing: 0.1rem;
+
+}
+
+.footer1_1_2 a {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: white;
+}
